@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.parent {
+    font-size: 28px; font-family: "halvetica" "times new roman" sans-serif;
+}
+.parent.elder {
+    color: #ffffff; background-color: black;
+}
+.parent.younger {
+    color: rgb(205, 212, 10); background-color: rgb(30, 113, 186);
+}
